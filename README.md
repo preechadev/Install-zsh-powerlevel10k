@@ -39,3 +39,6 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 ## Initialze the wizard for Powerlevel10k prompt
 source ~/.zshrc
+
+### Lastly, link below is how to install this on MacOS
+https://www.josean.com/posts/terminal-setup
